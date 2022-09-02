@@ -1,25 +1,21 @@
 {
     "tokenId": "1",
-    "name": "twire Community Art NFT",
-    "description": "twire Community Art NFT",
+    "name": "twireland 001 Community Art",
+    "description": "twire Community Art",
     "image": "https://gateway.pinata.cloud/ipfs/QmNMpMv35Yyk2ad5veTPBTTZEz5hm2u4cAeMbXKpiyEkvF",
-    "external_url": "https://twire.community",
+    "external_url": "https://www.twire.community",
     "attributes": [
         {
-            "trait_type": "Event",
-            "value": "twireland 001"
+            "trait_type": "twireland",
+            "value": "001"
         },
         {
             "trait_type": "Artist",
-            "value": "Dalhi"
-        },
-        {
-            "trait_type": "Date",
-            "value": "18-Aug-2022"
+            "value": "Dalhisuka"
         },
         {
             "trait_type": "Location",
-            "value": "Leipzig"
+            "value": "Leipzig, Germany"
         }
     ]
 }
